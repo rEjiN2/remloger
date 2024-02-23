@@ -1,0 +1,22 @@
+{
+  "name": "remloger",
+  "version": "1.0.1",
+  "description": "Helps those who forgot to remove console.logs after 1 hour of creation.It helps the difficulty of removing the console.logs at the time of publishing the app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rEjiN2/remloger.git"
+  },
+  "keywords": [
+    "\"remove\""
+  ],
+  "author": "REJIN ANIYAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rEjiN2/remloger/issues"
+  },
+  "homepage": "https://github.com/rEjiN2/remloger#readme"
+}
