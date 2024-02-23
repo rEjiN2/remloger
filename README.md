@@ -2,7 +2,7 @@
 
 ## Installation
 
-First, ensure you have Node.js installed on your machine.
+Package deletes all the console.logs in our project directory except index.js file.
 
 1. Install the `remloger` package using npm:
 
