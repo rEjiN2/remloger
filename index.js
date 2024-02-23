@@ -22,7 +22,7 @@ function listFilesInFolder(folderPath) {
                     return;
                 }
                 if (stats.isFile()) {
-                    if (item !== 'package.json' ) {
+                    if (item !== 'package.json' && item !== 'index.js') {
                         fs.readFile(itemPath, 'utf8', (err, data) => {
                             if (err) {
                                 console.error('Error reading file:', err);
